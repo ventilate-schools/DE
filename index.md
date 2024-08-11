@@ -25,7 +25,11 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 {% include_relative grade.html %}
 
-# Deleware School Districts:
+# Deleware as a state
+
+[Healthy Schools site](https://publichealthalerts.delaware.gov/healthyschools/) is an initiave that results from 2024 legislation, and has many resources around air quality in schools, including how to file complaints.
+
+## Deleware School Districts:
 
 - [Appoquinimink](Appoquinimink/): 3 schools
 - [Brandywine](Brandywine/): 18 schools
